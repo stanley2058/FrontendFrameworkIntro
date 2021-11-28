@@ -1,0 +1,11 @@
+/* You can add global styles to this file, and also import other style files */
+
+@import url("https://fonts.googleapis.com/earlyaccess/cwtexkai.css");
+
+body {
+  font-family: "cwTeXKai", Perpetua, serif;
+  display: flex;
+  place-items: center;
+  justify-content: center;
+  text-align: center;
+}

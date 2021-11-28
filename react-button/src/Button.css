@@ -1,0 +1,33 @@
+.btn {
+  padding: 0.25em 0.75em;
+  border: none;
+  cursor: pointer;
+  border-radius: 4px;
+}
+.btn:hover {
+  filter: brightness(130%);
+}
+
+.btn-primary {
+  background-color: #0d6efd;
+  color: #fff;
+  border: #0d6efd 2px solid;
+}
+
+.btn-secondary {
+  background-color: #6c757d;
+  color: #fff;
+  border: #6c757d 2px solid;
+}
+
+.btn-warn {
+  background-color: #ffc107;
+  color: #000;
+  border: #ffc107 2px solid;
+}
+
+.btn-danger {
+  background-color: #dc3545;
+  color: #fff;
+  border: #dc3545 2px solid;
+}
